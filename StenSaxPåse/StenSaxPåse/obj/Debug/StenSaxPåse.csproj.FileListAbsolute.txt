@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\StenSaxPåse\StenSaxPåse\bin\Debug\StenSaxPåse.exe.config
+C:\Users\user\source\repos\StenSaxPåse\StenSaxPåse\bin\Debug\StenSaxPåse.exe
+C:\Users\user\source\repos\StenSaxPåse\StenSaxPåse\bin\Debug\StenSaxPåse.pdb
+C:\Users\user\source\repos\StenSaxPåse\StenSaxPåse\obj\Debug\StenSaxPåse.csprojAssemblyReference.cache
+C:\Users\user\source\repos\StenSaxPåse\StenSaxPåse\obj\Debug\StenSaxPåse.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StenSaxPåse\StenSaxPåse\obj\Debug\StenSaxPåse.exe
+C:\Users\user\source\repos\StenSaxPåse\StenSaxPåse\obj\Debug\StenSaxPåse.pdb
